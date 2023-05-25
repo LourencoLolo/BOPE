@@ -1,0 +1,5 @@
+DISPLAY_NAME=BOPEbot
+DESCRIPTION=Apenas um Bot
+MAIN=index.js
+MEMORY=128
+VERSION=recommended
